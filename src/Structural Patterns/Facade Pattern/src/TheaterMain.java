@@ -34,3 +34,8 @@ public class TheaterMain {
         scanner.close();
     }
 }
+
+
+// Amina Tuzelova SE-2303
+
+

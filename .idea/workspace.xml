@@ -4,55 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bce53179-dfa4-43d1-ba26-3bcb9e5d8f3f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project Requirements.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral Patterns/Behavioral Patterns.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral Patterns/Observer Pattern/Observer Pattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral Patterns/Observer Pattern/src/CurrentConditionsDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral Patterns/Observer Pattern/src/WeatherApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral Patterns/Observer Pattern/src/WeatherObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral Patterns/Observer Pattern/src/WeatherStation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral Patterns/Observer Pattern/src/WeatherSubject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral Patterns/Strategy Pattern/Strategy Pattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral Patterns/Strategy Pattern/src/ExpressShipping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral Patterns/Strategy Pattern/src/OvernightShipping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral Patterns/Strategy Pattern/src/ShippingApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral Patterns/Strategy Pattern/src/ShippingContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral Patterns/Strategy Pattern/src/ShippingStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Behavioral Patterns/Strategy Pattern/src/StandardShipping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Creational Patterns/Factory Method Pattern/Factory Method Pattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Creational Patterns/Factory Method Pattern/src/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Creational Patterns/Factory Method Pattern/src/DatabaseFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Creational Patterns/Factory Method Pattern/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Creational Patterns/Factory Method Pattern/src/MongoDatabase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Creational Patterns/Factory Method Pattern/src/SQLDatabase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Creational Patterns/Factory Method Pattern/src/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Creational Patterns/Singleton Pattern/Singleton Pattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Creational Patterns/Singleton Pattern/src/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Creational Patterns/Singleton Pattern/src/Laptop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Creational Patterns/Singleton Pattern/src/LaptopInventory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Creational Patterns/Singleton Pattern/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Creational Patterns/Software Architecture Pattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Structural Patterns/Adapter Pattern/Adapter Pattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Structural Patterns/Adapter Pattern/src/CreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Structural Patterns/Adapter Pattern/src/PayPal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Structural Patterns/Adapter Pattern/src/PayPalAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Structural Patterns/Adapter Pattern/src/Payment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Structural Patterns/Adapter Pattern/src/PaymentProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Structural Patterns/Facade Pattern/Facade Pattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Structural Patterns/Facade Pattern/src/DVDPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Structural Patterns/Facade Pattern/src/HomeTheaterFacade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Structural Patterns/Facade Pattern/src/SoundSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Structural Patterns/Facade Pattern/src/TV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Structural Patterns/Facade Pattern/src/TheaterMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Structural Patterns/Structural Patterns.iml" afterDir="false" />
-    </list>
+    <list default="true" id="bce53179-dfa4-43d1-ba26-3bcb9e5d8f3f" name="Changes" comment="first init" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -123,12 +75,57 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730488264720</updated>
-      <workItem from="1730488265796" duration="5636000" />
+      <workItem from="1730488265796" duration="5955000" />
     </task>
+    <task id="LOCAL-00001" summary="first init">
+      <option name="closed" value="true" />
+      <created>1730495096172</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730495096172</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first init">
+      <option name="closed" value="true" />
+      <created>1730495144341</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730495144341</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first init">
+      <option name="closed" value="true" />
+      <created>1730495168150</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730495168150</updated>
+    </task>
+    <task id="LOCAL-00004" summary="first init">
+      <option name="closed" value="true" />
+      <created>1730495190189</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730495190189</updated>
+    </task>
+    <task id="LOCAL-00005" summary="first init">
+      <option name="closed" value="true" />
+      <created>1730495201087</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1730495201087</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first init" />
+    <option name="LAST_COMMIT_MESSAGE" value="first init" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
