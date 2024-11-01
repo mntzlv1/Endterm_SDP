@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/src/Structural Patterns/Adapter Pattern/Adapter Pattern.iml" filepath="$PROJECT_DIR$/src/Structural Patterns/Adapter Pattern/Adapter Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Behavioral Patterns/Behavioral Patterns.iml" filepath="$PROJECT_DIR$/src/Behavioral Patterns/Behavioral Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Structural Patterns/Facade Pattern/Facade Pattern.iml" filepath="$PROJECT_DIR$/src/Structural Patterns/Facade Pattern/Facade Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Creational Patterns/Factory Method Pattern/Factory Method Pattern.iml" filepath="$PROJECT_DIR$/src/Creational Patterns/Factory Method Pattern/Factory Method Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Behavioral Patterns/Observer Pattern/Observer Pattern.iml" filepath="$PROJECT_DIR$/src/Behavioral Patterns/Observer Pattern/Observer Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project Requirements.iml" filepath="$PROJECT_DIR$/Project Requirements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Creational Patterns/Singleton Pattern/Singleton Pattern.iml" filepath="$PROJECT_DIR$/src/Creational Patterns/Singleton Pattern/Singleton Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Behavioral Patterns/Strategy Pattern/Strategy Pattern.iml" filepath="$PROJECT_DIR$/src/Behavioral Patterns/Strategy Pattern/Strategy Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Structural Patterns/Structural Patterns.iml" filepath="$PROJECT_DIR$/src/Structural Patterns/Structural Patterns.iml" />
+    </modules>
+  </component>
+</project>
